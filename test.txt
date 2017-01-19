@@ -1,1 +1,1 @@
-teste agora com testo
+teste com outro diretorio externo
